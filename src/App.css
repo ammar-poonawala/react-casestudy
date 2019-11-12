@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.app-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+}
+.app-nav-li {
+  float: left;
+  display: block;
+  color: black;
+  border-right: 1px solid #bbb;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.margin-left {
+  margin-left: 25%;
+}
+
+/* .app-nav-li Link {
+  
+} */

@@ -1,0 +1,28 @@
+.vertical-menu {
+  width: 150px; 
+  margin-left: 0px;
+  margin-top: 0px; 
+margin-bottom: 0%;
+
+}
+.vertical-menu li {
+  background-color: #eee; 
+  color: black; 
+  display: block; 
+  padding: 12px; 
+  text-decoration: none; 
+  border:1px solid grey;
+}
+
+.home-nav > ul {
+  list-style-type: none;
+}
+
+.home-nav > li {
+display: inline;
+text-decoration: none;
+}
+
+.btn-cat {
+  width: 80%;
+}

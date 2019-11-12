@@ -1,0 +1,14 @@
+.form-input {
+    border: 0;
+    border-bottom: 1px solid black;
+    margin: 8px;
+}
+
+.errorMessage {
+    color: red;
+    font-size: 0.75em;
+    display: relative;
+  }
+  input.error {
+    border: 1px solid red;
+  }
